@@ -29,7 +29,7 @@ something the next one assumes.
 ### [02 — Convection](02-convection/)
 
 
-### [03 — Burgers](03-burgers/)
+### [03 — Burgers' equation](03-burgers'-equation/)
 
 ## Papers
 
